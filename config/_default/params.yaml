@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: "Forest"
 day_night: true
 font: ''
 font_size: L
@@ -20,40 +20,21 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: antoine.brandelet@umons.ac.be
+phone: +32 (0)65 37 31 52
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  street: 15 Avenue Victor Maistriau
+  city: Mons
+  region:
+  postcode: '7000'
+  country: Belgique
+  country_code: Be
+directions: Bâtiment de Vinci, Premier étage
 contact_links:
-  - icon: twitter
+  - icon: youtube
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: YouTube
+    link: 'https://www.youtube.com/channel/UCwh0znNcFTJvlMdETN8j2KQ'
 
 # Site header
 
@@ -68,9 +49,9 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+date_format: '_2 January 2006'
+time_format: '13:04'
+address_format: fr-fr
 
 # Site features
 
@@ -102,7 +83,7 @@ sharing: true
 copyright_license:
   enable: false
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 abstract_length: 135

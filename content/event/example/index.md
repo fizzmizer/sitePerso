@@ -1,73 +1,47 @@
 ---
-title: Example Talk
+abstract: >
+  In recent years, the question of scientific representation has attracted the
+  attention of many philosophers and has been much discussed (see for example
+  the collection of articles edited by Mauricio Suárez: Fictions in science:
+  philosophical essays on modeling and idealization, Routledge, 2009). Many
+  conceptions oppose each other on different points of analysis, but the
+  problematic is generally structured around the notion of model and its
+  relation with scientific theories. The central question is therefore: what
+  makes a scientific model represent the system under study?
 
-event: Wowchemy Conference
-event_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  Among the conceptions defended, one is based on a similarity between model-based reasoning and works of fiction. This fictional view of models bases its analysis on Walton's concept of make-believe. According to its advocates, the scientist's attitude when using a model to represent a physical system is the same as when we are faced with a work of fiction: we pretend to believe what is told to us, even if we know that approximations, idealisations or fictions are integrated into the model. This conception therefore raises questions both about the explanatory capacity of models and about their ontological interpretation.
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+  In this presentation, I will first show how the fictional conception of models allows us to answer some general problems of scientific representation. In particular, I will focus on the importance of taking into account the possibility of misrepresentation in an account of scientific representation and on the problems that this poses to purely structural conceptions of models.
 
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+  Secondly, I will address the case of realism. If scientific realism states that science aims at truth, the fictional account I defend seems at first sight to promote anti-realism. I will show that this is not the case and that a realistic conception of scientific theories can accommodate the problem of misrepresentation.
+slides: ""
 url_pdf: ""
-url_slides: ""
+summary: null
+date_end: 2021-09-24T14:00:00.000Z
+event_url: http://www.bslps.be/YRD7/
+authors:
+  - Antoine Brandelet
 url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-- example
+date: 2021-09-23T07:00:00.000Z
+featured: false
+url_slides: ""
+title: Model-Based Reasoning, Scientific Representation and Fiction
+location: Online
+links:
+  - url: http://bslps.be/yrd7_schedule.pdf
+    icon_pack: fas
+    icon: calendar-alt
+    name: Schedule
+event: 7th Young Researchers Day
+publishDate: 2021-09-17T12:17:42.478Z
+tags: []
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+url_code: ""
+all_day: true
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
