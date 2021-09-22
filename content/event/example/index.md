@@ -23,7 +23,7 @@ summary: null
 date_end: 2021-09-24T14:00:00.000Z
 event_url: http://www.bslps.be/YRD7/
 authors:
-  - Antoine Brandelet
+  - admin
 url_video: ""
 date: 2021-09-23T07:00:00.000Z
 featured: false
