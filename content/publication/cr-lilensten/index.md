@@ -1,9 +1,9 @@
 ---
-title: Fiction et Réalisme dans les Sciences Naturelles
+title: Compte rendu - Les sens du mot Science (de Jean Lilensten)
 publication_types:
   - "4"
 authors:
-  - A. Brandelet
+  - admin
 doi: 
 links:
   - url: https://revues.be/cahiers-internationaux-de-symbolisme?item=849

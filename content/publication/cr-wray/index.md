@@ -3,7 +3,7 @@ title: Compte rendu - Resisting Scientific Realism (de K. Brad Wray)
 publication_types:
   - "4"
 authors:
-  - A. Brandelet
+  - admin
 doi: 
 links:
   - url: https://www.rqs.be/app/views/revue.php?id=540&publication=1634
@@ -18,5 +18,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-publish_date: 2019-11-22T14:40:20.220Z
+date: 2019-11-22T14:40:20.220Z
 ---
