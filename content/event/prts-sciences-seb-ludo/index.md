@@ -3,7 +3,7 @@ title: "Pas si élémentaire... Mon cher Watson"
 abstract: "Parfois les choses ne sont pas aussi simples qu’elles en ont l’air, que ce soient les preuves scientifiques ou les raisonnements de la vie de tous les jours. Le but de cette conférence sera de déambuler dans l’histoire des sciences pour illustrer comment des raisonnements en apparence élémentaires peuvent receler des subtilités insoupçonnées. Affûtez vos raisonnements et venez mener l’enquête !!"
 location: Université de Mons (Belgique)
 date: 2019-03-28
-all_day: false
+all_day: true
 links:
   - url: https://www.sciences.be/press/printemps-des-sciences-2019/
     icon_pack: fas

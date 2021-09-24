@@ -11,7 +11,7 @@ moyen d’éviter certains écueils de raisonnement parfois dangereux ! Bref, un
 pour s’initier à l’esprit critique !"
 location: Université de Mons (Belgique)
 date: 2018-03-22
-all_day: false
+all_day: true
 links:
   - url: https://www.sciences.be/events/journees-math-sciences-2018/
     icon_pack: fas
