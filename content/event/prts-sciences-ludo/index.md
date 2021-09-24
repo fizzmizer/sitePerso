@@ -29,7 +29,7 @@ featured: false
 authors:
   - admin
   - Ludovic Ducobu
-categories: ["serious"]
+categories: ["diversTalks"]
 image:
   filename: featured
   focal_point: Smart
