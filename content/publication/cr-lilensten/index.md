@@ -12,6 +12,7 @@ links:
     name: URL
 publication: Cahiers Internationaux de Symbolisme
 abstract:
+tags = ["divers"]
 draft: false
 featured: false
 image:

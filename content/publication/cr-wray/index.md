@@ -12,6 +12,7 @@ links:
     name: URL
 publication: Revue des Questions Scientifiques
 abstract:
+tags = ["divers"]
 draft: false
 featured: false
 image:
