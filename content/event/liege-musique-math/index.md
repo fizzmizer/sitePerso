@@ -3,7 +3,7 @@ title: "Musique et mathématiques : deux langages universels ?"
 abstract: ""
 location: Liège (Belgique)
 date: 2018-04-26
-all_day: true
+all_day: false
 links:
   - url: https://www.emulation-liege.be/archive/compositions-philosophiques-1
     icon_pack: fas

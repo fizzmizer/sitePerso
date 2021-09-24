@@ -11,9 +11,9 @@ moyen d’éviter certains écueils de raisonnement parfois dangereux ! Bref, un
 pour s’initier à l’esprit critique !"
 location: Université de Mons (Belgique)
 date: 2018-03-22
-all_day: true
+all_day: false
 links:
-  - url: https://www.sciences.be/press/printemps-des-sciences-2018/
+  - url: https://www.sciences.be/events/journees-math-sciences-2018/
     icon_pack: fas
     icon: bookmark
     name: URL
@@ -22,7 +22,7 @@ links:
     icon: book
     name: Programme
 event: Printemps des Sciences
-event_url: https://www.sciences.be/evenements/printemps-des-sciences/
+event_url: https://www.sciences.be/press/printemps-des-sciences-2018/
 publishDate: 2021-09-23T13:01:26.355Z
 draft: false
 featured: false
