@@ -23,13 +23,13 @@ links:
     name: Programme
 event: Printemps des Sciences
 event_url: https://www.sciences.be/evenements/printemps-des-sciences/
-publishDate: 2021-09-24T13:01:26.355Z
+publishDate: 2021-09-23T13:01:26.355Z
 draft: false
 featured: false
 authors:
   - admin
   - Ludovic Ducobu
-categories: ["diversTalks"]
+categories: ["serious"]
 image:
   filename: featured
   focal_point: Smart
