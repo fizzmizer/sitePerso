@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 150
 
-title: 'Talks'
+title: 'Other Conferences'
 subtitle:
 
 content:
@@ -20,7 +20,7 @@ content:
   # Filter on criteria
   filters:
     author: ""
-    category: "serious"
+    category: "diversTalks"
     tag: ""
     exclude_featured: false
     exclude_future: false

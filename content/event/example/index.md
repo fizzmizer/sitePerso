@@ -37,7 +37,7 @@ links:
     name: Schedule
 event: 7th Young Researchers Day
 publishDate: 2021-09-17T12:17:42.478Z
-tags: []
+categories: ["serious"]
 projects: []
 image:
   caption: ""
