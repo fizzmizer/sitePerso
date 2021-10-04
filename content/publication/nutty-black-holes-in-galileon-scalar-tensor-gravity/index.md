@@ -10,6 +10,11 @@ authors:
 doi: http://dx.doi.org/10.1142/S0217751X18501890
 publication: International Journal of Modern Physics A
 publication_short: Int. J. Mod. Phys. A
+links:
+  - url: https://arxiv.org/abs/1705.06145
+    icon_pack: fas
+    icon: link
+    name: arXiv
 abstract: >
   Einstein gravity supplemented by a scalar field nonminimally coupled to a
   Gauss–Bonnet term provides an example of model of scalar-tensor gravity where
