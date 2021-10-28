@@ -9,14 +9,13 @@ social:
     icon_pack: fas
     link: mailto:antoine.brandelet@umons.ac.be
     label: Email
+ - icon: envelope
+    icon_pack: fas
+    link: https://orcid.org/0000-0002-4298-8251
+    label: ORCID
  - display:
       header: false
     link: https://www.youtube.com/channel/UCwh0znNcFTJvlMdETN8j2KQ
-    icon_pack: fab
-    icon: youtube
- - display:
-      header: false
-    link: https://orcid.org/0000-0002-4298-8251
     icon_pack: fab
     icon: youtube
 organizations:
