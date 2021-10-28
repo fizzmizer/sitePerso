@@ -9,6 +9,10 @@ social:
     icon_pack: fas
     link: mailto:antoine.brandelet@umons.ac.be
     label: Email
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:antoine.brandelet@umons.ac.be
+    label: Email
   - display:
       header: false
     link: https://www.youtube.com/channel/UCwh0znNcFTJvlMdETN8j2KQ
