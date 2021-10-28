@@ -5,15 +5,20 @@ bio: I am mainly interested in the philosphy of physics, the epistemology of
   models and the concept of fiction
 interests: []
 social:
-  - icon: envelope
+ - icon: envelope
     icon_pack: fas
     link: mailto:antoine.brandelet@umons.ac.be
     label: Email
-  - display:
+ - display:
       header: false
     link: https://www.youtube.com/channel/UCwh0znNcFTJvlMdETN8j2KQ
     icon_pack: fab
     icon: youtube
+ - display:
+      header: false
+    link: https://orcid.org/0000-0002-4298-8251
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: Université de Mons
     url: https://web.umons.ac.be/fr/

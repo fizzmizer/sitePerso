@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: antoine.brandelet@umons.ac.be
-phone: +32 (0)65 37 31 52
+phone: +32 (0)65 37 23 36
 address:
   street: 15 Avenue Victor Maistriau
   city: Mons
@@ -35,6 +35,10 @@ contact_links:
     icon_pack: fab
     name: YouTube
     link: 'https://www.youtube.com/channel/UCwh0znNcFTJvlMdETN8j2KQ'
+  - icon: user-group
+    icon_pack: fab
+    name: BRCP
+    link: 'https://basic-research.org/'
 
 # Site header
 
