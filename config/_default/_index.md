@@ -17,8 +17,8 @@ social:
  - display:
       header: false
     link: https://orcid.org/0000-0002-4298-8251
-    icon_pack: ai
-    icon: orcid
+    icon_pack: fab
+    icon: youtube
 organizations:
   - name: Université de Mons
     url: https://web.umons.ac.be/fr/

@@ -35,7 +35,7 @@ contact_links:
     icon_pack: fab
     name: YouTube
     link: 'https://www.youtube.com/channel/UCwh0znNcFTJvlMdETN8j2KQ'
-  - icon: user-group
+  - icon: youtube
     icon_pack: fab
     name: BRCP
     link: 'https://basic-research.org/'
