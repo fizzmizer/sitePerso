@@ -31,7 +31,7 @@ education:
     - year: 2017
       course: MSc in physics - fundamental interactions
       institution: Université de Mons
-    - course: Advanced Master's in Language Science - philosophical discourse
+    - course: Advanced Master's in Language Sciences - philosophical discourse
       institution: Université de Mons
       year: 2018
 superuser: true
