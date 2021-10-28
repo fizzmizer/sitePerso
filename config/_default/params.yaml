@@ -35,8 +35,12 @@ contact_links:
     icon_pack: fab
     name: YouTube
     link: 'https://www.youtube.com/channel/UCwh0znNcFTJvlMdETN8j2KQ'
-  - icon: fa-users
-    icon_pack: fa
+  - icon: orcid
+    icon_pack: ai
+    name: ORCID
+    link: 'https://orcid.org/0000-0002-4298-8251'
+  - icon: users
+    icon_pack: fas
     name: BRCP
     link: 'https://basic-research.org/'
 
