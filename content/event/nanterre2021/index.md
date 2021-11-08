@@ -25,7 +25,7 @@ links:
     icon: bookmark
     name: URL
 event: Le réalisme scientifique à l’aube du XXème siècle
-publishDate: 2021-11-08T12:17:42.478Z
+publishDate: 2021-11-08T12:10:42.478Z
 categories: ["serious"]
 projects: []
 image:
