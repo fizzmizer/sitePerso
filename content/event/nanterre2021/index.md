@@ -20,22 +20,22 @@ abstract: >
 slides: ""
 url_pdf: ""
 summary: null
-date_end: 2021-09-24T14:00:00.000Z
-event_url: http://www.bslps.be/YRD7/
+date_end: 2021-12-03T14:00:00.000Z
+event_url: https://philosciences.com/511-realisme-scientifique
 authors:
   - admin
 url_video: ""
-date: 2021-09-23T07:00:00.000Z
+date: 2021-12-02T07:00:00.000Z
 featured: false
 url_slides: ""
-title: Model-Based Reasoning, Scientific Representation and Fiction
-location: Online
+title: "Fiction, réalisme et représentation scientifique : y a-t-il une continuité conceptuelle en physique ?"
+location: Université Paris Nanterre
 links:
   - url: http://bslps.be/yrd7_schedule.pdf
     icon_pack: fas
     icon: calendar-alt
-    name: Schedule
-event: 7th Young Researchers Day
+    name: URL
+event: "Le réalisme scientifique à l'aube du siècle"
 publishDate: 2021-09-17T12:17:42.478Z
 categories: ["serious"]
 projects: []
