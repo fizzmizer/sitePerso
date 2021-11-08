@@ -1,8 +1,5 @@
 ---
-abstract: >
-  In recent years, the question of scientific representation has attracted the
-
-Le débat contemporain entre réalisme et antiréalisme scientifique se structure généralement autour d'un questionnement de la continuité historique : l'existence de changements théoriques radicaux ou de paradigm shifts kuhniens permet de formuler une méta-induction pessimiste souvent perçue comme un argument très fort à l'encontre de la position réaliste. L'une des stratégies réalistes pour résister à ce gambit historique consiste à rétablir une forme de continuité. C'est le cas du réalisme structural, qui admet des changements conceptuels en physique, mais insiste sur les régularités dans les lois et les théories au fur et à mesure de leurs remplacements successifs.
+abstract: "Le débat contemporain entre réalisme et antiréalisme scientifique se structure généralement autour d'un questionnement de la continuité historique : l'existence de changements théoriques radicaux ou de paradigm shifts kuhniens permet de formuler une méta-induction pessimiste souvent perçue comme un argument très fort à l'encontre de la position réaliste. L'une des stratégies réalistes pour résister à ce gambit historique consiste à rétablir une forme de continuité. C'est le cas du réalisme structural, qui admet des changements conceptuels en physique, mais insiste sur les régularités dans les lois et les théories au fur et à mesure de leurs remplacements successifs."
 
 slides: ""
 url_pdf: ""
