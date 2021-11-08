@@ -1,22 +1,9 @@
 ---
 abstract: >
   In recent years, the question of scientific representation has attracted the
-  attention of many philosophers and has been much discussed (see for example
-  the collection of articles edited by Mauricio Suárez: Fictions in science:
-  philosophical essays on modeling and idealization, Routledge, 2009). Many
-  conceptions oppose each other on different points of analysis, but the
-  problematic is generally structured around the notion of model and its
-  relation with scientific theories. The central question is therefore: what
-  makes a scientific model represent the system under study?
 
+Le débat contemporain entre réalisme et antiréalisme scientifique se structure généralement autour d'un questionnement de la continuité historique : l'existence de changements théoriques radicaux ou de paradigm shifts kuhniens permet de formuler une méta-induction pessimiste souvent perçue comme un argument très fort à l'encontre de la position réaliste. L'une des stratégies réalistes pour résister à ce gambit historique consiste à rétablir une forme de continuité. C'est le cas du réalisme structural, qui admet des changements conceptuels en physique, mais insiste sur les régularités dans les lois et les théories au fur et à mesure de leurs remplacements successifs.
 
-  Among the conceptions defended, one is based on a similarity between model-based reasoning and works of fiction. This fictional view of models bases its analysis on Walton's concept of make-believe. According to its advocates, the scientist's attitude when using a model to represent a physical system is the same as when we are faced with a work of fiction: we pretend to believe what is told to us, even if we know that approximations, idealisations or fictions are integrated into the model. This conception therefore raises questions both about the explanatory capacity of models and about their ontological interpretation.
-
-
-  In this presentation, I will first show how the fictional conception of models allows us to answer some general problems of scientific representation. In particular, I will focus on the importance of taking into account the possibility of misrepresentation in an account of scientific representation and on the problems that this poses to purely structural conceptions of models.
-
-
-  Secondly, I will address the case of realism. If scientific realism states that science aims at truth, the fictional account I defend seems at first sight to promote anti-realism. I will show that this is not the case and that a realistic conception of scientific theories can accommodate the problem of misrepresentation.
 slides: ""
 url_pdf: ""
 summary: null
@@ -31,11 +18,11 @@ url_slides: ""
 title: "Fiction, réalisme et représentation scientifique : y a-t-il une continuité conceptuelle en physique ?"
 location: Université Paris Nanterre
 links:
-  - url: http://bslps.be/yrd7_schedule.pdf
+  - url: https://philosciences.com/511-realisme-scientifique
     icon_pack: fas
-    icon: calendar-alt
+    icon: bookmark
     name: URL
-event: "Le réalisme scientifique à l'aube du siècle"
+event: "Le réalisme scientifique à l'aube du XXème siècle"
 publishDate: 2021-09-17T12:17:42.478Z
 categories: ["serious"]
 projects: []
