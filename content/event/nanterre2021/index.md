@@ -26,7 +26,7 @@ links:
     name: URL
 event: "Le réalisme scientifique à l'aube du XXème siècle"
 publishDate: 2021-09-17T12:17:42.478Z
-categories: ["serious"]
+categories: ["colloques"]
 projects: []
 image:
   caption: ""

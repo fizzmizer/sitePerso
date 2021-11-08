@@ -17,7 +17,7 @@ draft: false
 featured: false
 authors:
   - admin
-categories: ["serious"]
+categories: ["colloques"]
 image:
   filename: featured
   focal_point: Smart

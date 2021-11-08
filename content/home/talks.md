@@ -20,7 +20,7 @@ content:
   # Filter on criteria
   filters:
     author: ""
-    category: "serious"
+    category: "colloques"
     tag: ""
     exclude_featured: false
     exclude_future: false
