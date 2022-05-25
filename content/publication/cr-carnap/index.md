@@ -6,7 +6,7 @@ authors:
   - admin
 doi: 
 links:
-  - url: https://www.rqs.be/app/views/revue.php?id=540&publication=1634
+  - url: https://www.rqs.be/app/services/download-pdf.php?what=publication&id=3272
     icon_pack: fas
     icon: link
     name: URL
