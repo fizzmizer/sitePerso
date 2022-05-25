@@ -1,5 +1,5 @@
 ---
-title: Compte rendu de Rudolph Carnap : «Les fondements philosophiques de la physique : une introduction à la philosophie des sciences»
+title: Compte rendu - Les fondements philosophiques de la physique : une introduction à la philosophie des sciences (de Rudolph Carnap)
 publication_types:
   - "4"
 authors:
